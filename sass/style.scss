@@ -271,21 +271,7 @@ margin-bottom: 46px;
 }
 
 .top-picture {
-
-    @include mq(sp) {
-    padding-top: 124%;
-    //414(縦）/345（横）=1.2
-    //つまりmargin-topは120%
-    //あんま深くは考えんでいい。公式やと考えよう。
-    background: url(/94B54740-A6AB-4681-B623-E540B90D2846.JPG) center center / cover;
-    }
-
-    @include mq(md) {
-     padding-top: 55%;
-     background: url(/Users/datsu/Desktop/中級総復習　答えのコピー/IMG_2627.JPG) top right / 100% no-repeat ;
- 
-    }
-    
+width:385px;
 }
 
 .top-message {
