@@ -228,10 +228,7 @@ img {
 
 @media screen and (max-width: 767px) {
   .top-picture {
-    //414(縦）/345（横）=1.2
-    //つまりmargin-topは120%
-    //あんま深くは考えんでいい。公式やと考えよう。
-    background: url(/94B54740-A6AB-4681-B623-E540B90D2846.JPG) center center / cover;
+   width:385px;
   }
 }
 
